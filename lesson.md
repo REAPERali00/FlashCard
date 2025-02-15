@@ -2,14 +2,9 @@
 id: coffee_break
 aliases: []
 tags:
-  - learning
-  - german
-  - daily life
 ---
 
 # coffee_break
-
-[current progress](https://www.youtube.com/watch?v=Qr9xfOatAw8&list=PLpnfbYASfhaj0wHwM24rI81PekEg6z-FP&index=7)
 
 > [!tip]vim transformation snippet: 'let @a = "A->\<Esc>0vt-gsa`0i- \<Esc>J"'
 
@@ -157,11 +152,3 @@ City names - Hamburg, Frakfurt, München, Wien, zürich, Genf, Köln
 - `Ich schaue nur, Danke.`-> I am just looking, thank you
 - `Gern geschehen`-> you're welcome
 - `Entschuldigung`-> excuse me
-
-## [Lesson 7](https://www.youtube.com/watch?v=Qr9xfOatAw8&list=PLpnfbYASfhaj0wHwM24rI81PekEg6z-FP&index=7)
-
-# References
-
-- [Friends in german](https://www.youtube.com/watch?v=Td0X9dt4m-0&list=PLtJcb2rGyBZTobuM15PDRX22yusXmq0lX)
-- [zdf german news](https://www.youtube.com/@ZDF/videos)
-- [vox](https://www.youtube.com/@VOX_de)
